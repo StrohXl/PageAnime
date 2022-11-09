@@ -1,0 +1,44 @@
+<template>
+    <v-row class="mb-0  ">
+        <v-col class=" " >
+            <Carousel class="mb-12"/>
+            <div  class="d-flex justify-center titulo align-center" v-intersect="{handler: TituloIntersecting, options: {treshold:[0,0.5,1.0]}} ">
+                <h1 :class="`tituloNoIntersectado ${titleIntersectado ? 'tituloIntersectado' : ''}`" color="black">Animes Populares
+                </h1>
+            </div>
+            <ListaDeAnimes />
+        </v-col>
+        <v-col cols="3" class="pl-0 colResponsive">
+            <generos/>
+        </v-col>
+    </v-row>
+</template>
+<script setup >
+import generos from '../components/miniTop.vue'
+import Carousel from '../components/Carousel.vue'
+import ListaDeAnimes from '../components/ListaDeAnimes.vue'
+import { ref } from 'vue'
+import '../styles/responsive.css'
+const titleIntersectado = ref(false)
+const TituloIntersecting = (titleIntersecting, entries, observer) => {
+    titleIntersectado.value = titleIntersecting
+
+}
+</script>
+<style>
+.tituloNoIntersectado {
+    color: black !important;
+    transition: padding 1s;
+    padding-bottom: 120px;
+}
+.tituloIntersectado {
+    font-size: 80px;
+    font-family: 'Island Moments' ;
+    padding-bottom: 0px;
+}
+.titulo{
+    border: 4px solid var(--color-negro);
+    height: 80px;
+    background-color: var(--color-blanco-transparente);
+}
+</style>

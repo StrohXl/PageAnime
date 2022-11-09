@@ -1,0 +1,13 @@
+@media (min-width:400px) and (max-width:650px){
+    .colResponsive{
+        display: none;
+    }
+    .tituloNoIntersectado{
+        font-size: 60px;
+    }
+}
+@media (min-width:650px) and (max-width:1000px){
+    .colResponsive{
+        display: none;
+    }
+}

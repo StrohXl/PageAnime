@@ -1,0 +1,3 @@
+<template>
+    ver anime
+</template>

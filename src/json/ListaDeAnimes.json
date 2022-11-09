@@ -1,0 +1,250 @@
+[
+    {
+      "src":"https://cdn.jkdesu.com/assets/images/animes/image/one-piece.jpg",
+      "name": "One Piece",
+      "contenido": "hola",
+       "Portada": "../images/516664.jpg"
+      
+    
+    },
+    {
+      "src":"../images/jujutsu.jpg",
+      "name": "Jujutsu kaisen",
+      "contenido": "fsdf",
+      "Portada": "https://as01.epimg.net/meristation/imagenes/2022/05/26/noticias/1653557269_040579_1653557380_noticia_normal_recorte1.jpg"
+    
+    },
+
+    {
+      "src":"https://cdn.jkdesu.com/assets/images/animes/image/boruto-naruto-next-generations.jpg",
+      "name": "Boruto",
+      "contenido": "holasdfa",
+      "Portada": "../images/614826.png"
+    
+    },
+    {
+        "src":"../images/473189.jpg",
+        "name": "Zacht bell",
+        "contenido": "hola",
+        "Portada": "../images/473189.jpg"
+        
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/dragon-ball-z-movie-05-coolers-revenge.jpg",
+        "name": "Boku no Hero",
+        "contenido": "fsdf",
+        "Portada": "../images/698782.jpg"
+        
+      
+      },
+      {
+        "src":"../images/shippuden.jpg",
+        "name": "Naruto Shippuden",
+        "Portada": "../images/516664.jpg",
+        "contenido": "holasdfa"
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/black-clover-tv.jpg",
+        "name": "Black Clover",
+        "Portada": "../images/516664.jpg",
+        "contenido": "hola"
+        
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "Shingeki no kyogin",
+        "Portada": "../images/516664.jpg",
+        "contenido": "fsdf"
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "Vinlad Saga",
+        "Portada": "../images/516664.jpg",
+        "contenido": "holasdfa"
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "One Piece",
+        "Portada": "../images/516664.jpg",
+        "contenido": "hola"
+        
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "Ranma ½",
+
+        "contenido": "fsdf"
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "Grave of the Fireflies",
+
+        "contenido": "holasdfa"
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "My Neighbor Totoro",
+
+        "contenido": "hola"
+        
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "Akira",
+
+        "contenido": "fsdf"
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "Ronin Warriors",
+
+        "contenido": "holasdfa"
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "One Piece",
+
+        "contenido": "hola"
+        
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "Mobile Suit Gundam ZZ",
+
+        "contenido": "fsdf"
+        
+      
+      },
+      {
+        "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+        "name": "Dragon Ball",
+
+        "contenido": "holasdfa"
+        
+      
+      },
+      {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Mobile Suit Zeta Gundam",
+  
+          "contenido": "hola"
+          
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "fist of the north star",
+  
+          "contenido": "fsdf"
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Capitan Tsubasa",
+  
+          "contenido": "holasdfa"
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Macross",
+  
+          "contenido": "hola"
+          
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Ashita no Joe 2",
+  
+          "contenido": "fsdf"
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Rose of Versailles",
+  
+          "contenido": "holasdfa"
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Mobile Suit Gundam",
+  
+          "contenido": "hola"
+          
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Candy Candy",
+  
+          "contenido": "fsdf"
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Alps no Shoujo Heidi",
+  
+          "contenido": "holasdfa"
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Mazinger Z",
+  
+          "contenido": "hola"
+          
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Lupin III",
+  
+          "contenido": "fsdf"
+          
+        
+        },
+        {
+          "src":"https://cdn.jkdesu.com/assets/images/animes/image/vinland-saga.jpg",
+          "name": "Ashita no Joe",
+  
+          "contenido": "holasdfa"
+          
+        
+        }
+    ]
