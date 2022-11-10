@@ -1,9 +1,25 @@
-@media (min-width:400px) and (max-width:650px){
+@media (min-width:350px) and (max-width:650px){
+    .navResponsiveActive {
+        top: 56px !important;
+        display: block ;
+    }
+    .Nav{
+        display: none;
+    }
+    .burger{
+        display: block !important;
+    }
     .colResponsive{
         display: none;
     }
     .tituloNoIntersectado{
-        font-size: 60px;
+        font-size: 50px !important;
+    }
+    .navResponsive{
+        display: flex !important;
+    }
+    .tituloAnimesResponsive{
+        font-size: 50px !important;
     }
 }
 @media (min-width:650px) and (max-width:1000px){

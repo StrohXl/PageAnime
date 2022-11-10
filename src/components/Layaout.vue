@@ -1,40 +1,36 @@
 <script setup>
-  import Header from './Header.vue'
-  import Footer from './Footer.vue'
-
+import Header from './Header.vue'
+import Footer from './Footer.vue'
 </script>
 <template>
   <v-app>
-    <v-main class="main" >
-      
-    <Header />
-      
+    <v-main class="main">
+      <Header />
       <div class="contenido">
-        <RouterView/>
-        
+        <RouterView />
       </div>
-    <Footer/>
+      <Footer />
     </v-main>
   </v-app>
 </template>
 
 <style>
-
-:root{
+:root {
   --color-blue: #2196F3;
   --color-negro: rgb(41, 41, 41);
   --color-negro-transparente: rgba(41, 41, 41, 0.671);
   --color-gris: rgb(80, 80, 80);
   --color-blanco-transparente: rgba(255, 255, 255, 0.774);
 }
-.main{
+
+.main {
   background-image: url(./images/978587.png);
-  background-size: 100% 610px;
+  background-size: 100% 680px;
   background-attachment: fixed;
 }
 
-.contenido{
- 
+.contenido {
+
   margin-top: 100px;
   margin-left: 30px;
   margin-right: 30px;

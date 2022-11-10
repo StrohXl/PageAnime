@@ -1,5 +1,5 @@
 <template>
-    <div class="tituloAnimes bg-white">Lista De Animes</div>
+    <div class="tituloAnimes bg-white tituloAnimesResponsive">Lista De Animes</div>
     <v-row no-gutters justify="space-around" class="pa-12 bg-white rowAnimes">
         <template v-for="(Anime, index) in Lista">
             <v-col class="d-flex justify-center pa-2 pb-5  " v-if="index > 0 && index < cantidad">
