@@ -9,14 +9,14 @@
             <ListaDeAnimes />
         </v-col>
         <v-col cols="3" class="pl-0 colResponsive">
-            <generos/>
+            <miniTop/>
         </v-col>
     </v-row>
 </template>
 <script setup >
-import generos from '../components/miniTop.vue'
-import Carousel from '../components/Carousel.vue'
-import ListaDeAnimes from '../components/ListaDeAnimes.vue'
+import miniTop from '../components/MiniTop'
+import Carousel from '../components/Carousel/'
+import ListaDeAnimes from '../components/ListaDeAnimes'
 import { ref } from 'vue'
 import '../styles/responsive.css'
 const titleIntersectado = ref(false)

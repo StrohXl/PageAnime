@@ -3,6 +3,6 @@
 </template>
 
 <script setup>
-  import Layaout from './components/Layaout.vue'
+  import Layaout from './components/Layaout'
 
 </script>

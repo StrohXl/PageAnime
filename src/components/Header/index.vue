@@ -23,7 +23,7 @@
  
 </template>
 <script setup>
-import navResponsive from './NavResponsive.vue'
+import navResponsive from './Nav'
 import '../styles/responsive.css'
 import { ref } from 'vue';
 const navActive = ref(false)

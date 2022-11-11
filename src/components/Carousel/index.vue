@@ -21,7 +21,7 @@
   </v-carousel>
 </template>
 <script setup>
-import ListaDeAnimes from '../json/ListaDeAnimes.json'
+import ListaDeAnimes from '../../json/ListaDeAnimes.json'
 </script>
 <style>
 .botonNuevo{
